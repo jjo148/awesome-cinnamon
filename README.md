@@ -1,6 +1,6 @@
 # awesome-cinnamon
 
-Run Awesome WM in a Cinnamon session.
+Run Awesome WM in a Cinnamon session, or in a GNOME session.
 *This is a modified version of the `i3-cinnamon` project.*
 
 
