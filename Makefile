@@ -49,7 +49,7 @@ install_gnome:
 	$(INSTALL) -m0644 -D session-gnome/awesome-gnome.desktop $(PATH_AWESOME_GNOME_DESKTOP)
 	$(INSTALL) -m0644 -D session-gnome/awesome-gnome.session $(PATH_AWESOME_GNOME_SESSION)
 	$(INSTALL) -m0755 -D session-gnome/awesome-gnome $(PATH_AWESOME_GNOME)
-	$(INSTALL) -m0755 -D session-gnome/gnome-session-i3 $(PATH_GNOME_SESSION_AWESOME)
+	$(INSTALL) -m0755 -D session-gnome/gnome-session-awesome $(PATH_GNOME_SESSION_AWESOME)
 
 
 
